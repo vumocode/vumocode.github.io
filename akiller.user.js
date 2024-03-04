@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1.1
 // @description  try to take over the world!
-// @author       You
+// @author       ktos z gordion
 // @match        aether.margonem.pl/
 // @grant        none
 // ==/UserScript==
